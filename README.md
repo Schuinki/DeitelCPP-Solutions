@@ -7,9 +7,9 @@ Chapter 1 - Introduction to computers and programming in C++ (04/2024)
 
 Chapter 2 - Control Structures (04/2024)
 
-========= TO DO:
-
 Chapter 3 - Functions (05/2024)
+
+========= TO DO:
 
 Chapter 4 - Arrays
 
