@@ -7,11 +7,13 @@ Chapter 1 - Introduction to computers and programming in C++ (04/2024)
 
 Chapter 2 - Control Structures (04/2024)
 
-Chapter 3 - Functions (05/2024)
+Chapter 3 - Functions (05/2024)  
+* To Do: Tower of Hanoi
+
+Chapter 4 - Arrays (05/2024)  
+* To Do: Knight's Tour, Eight Queens Puzzle.
 
 ========= TO DO:
-
-Chapter 4 - Arrays
 
 Chapter 5 - Pointers and strings 
 
