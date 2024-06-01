@@ -20,9 +20,9 @@ Chapter 6 - Classes and Data Abstraction (05/2024)
 
 Chapter 7 - Classes: part II (05/2024)
 
-========= TO DO:
+Chapter 8 - Operator Overload (05/2024)
 
-Chapter 8 - Operator Overload
+========= TO DO:
 
 Chapter 9 - Inheritance
 
