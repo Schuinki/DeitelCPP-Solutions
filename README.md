@@ -22,9 +22,9 @@ Chapter 7 - Classes: part II (05/2024)
 
 Chapter 8 - Operator Overload (05/2024)
 
-========= TO DO:
+Chapter 9 - Inheritance (06/2024)
 
-Chapter 9 - Inheritance
+========= TO DO:
 
 Chapter 10 - Virtual functions and polymorphism
 
