@@ -24,9 +24,10 @@ Chapter 8 - Operator Overload (05/2024)
 
 Chapter 9 - Inheritance (06/2024)
 
-========= TO DO:
+Chapter 10 - Virtual functions and polymorphism (06/2024)
+* To Do: +3 questions (soon)
 
-Chapter 10 - Virtual functions and polymorphism
+========= TO DO:
 
 Chapter 11 - Input/output with streams in C++
 
